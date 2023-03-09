@@ -67,12 +67,12 @@ const Section = () => {
           <img
             src="https://www.rakamin.com/assets/bg-picture-left.06232d70.webp"
             alt="photo1"
-            className="absolute lg:inline-block sm:hidden top-1/2 right-1/2 transform -translate-x-1/2 -translate-y-1/2"
+            className="absolute  sm:hidden top-1/2 right-1/2 transform -translate-x-1/2 -translate-y-1/2"
           />
           <img
             src="https://www.rakamin.com/assets/bg-picture-right.d4279510.webp"
             alt="photo2"
-            className="absolute lg:inline-block sm:hidden top-1/2 left-1/2 transform translate-x-1/2 -translate-y-1/2"
+            className="absolute  sm:hidden top-1/2 left-1/2 transform translate-x-1/2 -translate-y-1/2"
           />
         </div>
       </div>
