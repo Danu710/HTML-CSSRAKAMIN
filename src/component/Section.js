@@ -63,7 +63,7 @@ const Section = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-row">
+        {/* <div className="flex flex-row">
           <img
             src="https://www.rakamin.com/assets/bg-picture-left.06232d70.webp"
             alt="photo1"
@@ -74,7 +74,7 @@ const Section = () => {
             alt="photo2"
             className="absolute  sm:hidden top-1/2 left-1/2 transform translate-x-1/2 -translate-y-1/2"
           />
-        </div>
+        </div> */}
       </div>
     </section>
   );
